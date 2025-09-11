@@ -1,29 +1,25 @@
 {
-  "subTitle": "Ask us anything about our brand and products, and get factual responses.",
+  "subTitle": "Lo que nuestros clientes siempre preguntan antes de elegirnos.",
   "faqs": [
     {
-      "question": "What types of tools are included in the Starter Kit?",
-      "answer": "The Starter Kit features essential hand and power tools for diverse DIY projects, including hammers, drills, screwdrivers, and a variety of fasteners. It's a curated selection to help beginners and experienced DIYers alike tackle most home improvement tasks."
+      "question": "¿Cuántas personas pueden viajar en el servicio?",
+      "answer": "El servicio es privado y exclusivo para un máximo de 4 personas. Esto garantiza comodidad y espacio suficiente para todos los pasajeros."
     },
     {
-      "question": "Can I upgrade from the Starter Kit to the Professional Toolbox?",
-      "answer": "Absolutely! You can upgrade to the Professional Toolbox at any time to access a wider range of high-quality tools, enjoy priority customer support, and receive exclusive content. Contact our support team for a seamless transition."
+      "question": "¿Cómo puedo pagar el servicio?",
+      "answer": "Aceptamos pagos en efectivo, yape, plin y transferencias bancarias. Consulta disponibilidad al reservar."
     },
     {
-      "question": "What discounts are available for bulk orders through the Professional Toolbox plan?",
-      "answer": "Professional Toolbox members are entitled to exclusive discounts on bulk orders, the percentage of which may vary depending on the order volume. Get in touch with us to discuss your needs, and we'll provide a tailored discount structure."
+      "question": "¿Con cuánto tiempo de anticipación debo reservar?",
+      "answer": "Recomendamos reservar con al menos 24 horas de anticipación para asegurar la disponibilidad. Sin embargo, haremos todo lo posible para acomodar reservas de último minuto."
     },
     {
-      "question": "What kind of customer support can I expect?",
-      "answer": "All our customers receive dedicated email support. With the Starter Kit, you'll receive our standard support, while the Professional Toolbox plan upgrades you to priority support, meaning faster response times and specialized assistance."
+      "question": "¿Qué pasa si mi vuelo se retrasa?",
+      "answer": "Monitoreamos la hora de llegada de tu vuelo y ajustamos el servicio sin costo adicional por esperas razonables."
     },
     {
-      "question": "How current are the online resources and tutorials?",
-      "answer": "We regularly update our online resources and tutorials to reflect the latest trends in DIY and construction, as well as introductions to new tools and techniques. Our material aims to be comprehensive and user-friendly for all skill levels."
-    },
-    {
-      "question": "Does ScrewFast offer services for large-scale construction projects?",
-      "answer": "Yes, our Enterprise Solutions are designed for larger companies requiring comprehensive services. We provide consultation, planning, and supply of high-grade tools and materials, as well as staffing solutions for substantial construction needs. Contact us for a customized quote."
+      "question": "¿Tienen espacio para equipaje?",
+      "answer": "Sí, el vehículo cuenta con capacidad para maletas de hasta 4 personas. Por favor, informa sobre equipaje adicional al reservar."
     }
   ]
 }
