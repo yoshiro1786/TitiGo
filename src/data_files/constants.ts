@@ -1,4 +1,4 @@
-import ogImageSrc from "@images/social.png";
+import ogImageSrc from "@images/seguridad.png";
 
 export const SITE = {
   title: "TitiGo",
@@ -33,8 +33,8 @@ export const OG = {
   locale: "en_US",
   type: "website",
   url: SITE.url,
-  title: `${SITE.title}: : Hardware Tools & Construction Services`,
-  description: "Equip your projects with ScrewFast's top-quality hardware tools and expert construction services. Trusted by industry leaders, ScrewFast offers simplicity, affordability, and reliability. Experience the difference with user-centric design and cutting-edge tools. Start exploring now!",
+  title: `${SITE.title}: Transporte privado en Arequipa - Traslados aeropuerto, hoteles y más`,
+  description: "En TitiGo ofrecemos transporte privado en Arequipa, con recojo en el aeropuerto, hoteles, eventos y más. Reserva tu movilidad ejecutiva hoy mismo.",
   image: ogImageSrc,
 };
 
